@@ -1,0 +1,34 @@
+
+#header{
+    background-image: url('./files/4.jpg');
+    background-size: 100%;
+    height: 200px;
+    padding: 20px;
+    color:aliceblue;
+}
+#topcontent{
+    background-color: inherit;
+    height: 600px;
+    width: 100%;
+}
+#side{
+    float:left;
+    max-height: initial;
+    width: 15%;
+    background-color: inherit;
+    /* border-right:1px groove; */
+}
+
+#content{
+    float:right;
+    max-height: inherit;
+    width: 82%;
+    background-color: inherit;
+}
+
+#footer{
+    height: 400px;
+    color:lightgrey;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
